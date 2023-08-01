@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DenisFedash.github.io/notes-app-vanilla-js",
+  "homepage": "https://DenisFedash.github.io/notes-app-vanilla-js/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /notes-app-vanilla-js/"
